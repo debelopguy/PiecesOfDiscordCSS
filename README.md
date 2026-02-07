@@ -1,3 +1,4 @@
+<img width="512" height="464" alt="image" src="https://github.com/user-attachments/assets/8aa324f5-08f2-4d89-afe0-3c2600af758b" /><br/>
 # PiecesOfDiscordCSS
 A list of various cool discord pieces of css I (and you) may find useful.
 there isn't going to be much at the moment, but I may add more if I feel the need to.
