@@ -2,7 +2,8 @@
 A list of various cool discord pieces of css I (and you) may find useful.
 there isn't going to be much at the moment, but I may add more if I feel the need to.
 By the way, you may combine these for any desired effect that you want. 👍
-### *NOTE: You do need a client like <img width="25" height="16" alt="image" src="https://github.com/user-attachments/assets/c7eb0cf1-6b30-4466-a245-819ef3fa7536" />**[Vencord](https://vencord.dev/)** to use these.*..
+### *NOTE: You do need a client like <img width="25" height="16" alt="image" src="https://github.com/user-attachments/assets/c7eb0cf1-6b30-4466-a245-819ef3fa7536" />**[Vencord](https://vencord.dev/)** to use these, specifically the QuickCSS option.*..
+<img width="153" height="44" alt="image" src="https://github.com/user-attachments/assets/b627e40e-23ad-4ef7-873d-61182fee9bb6" />
 
 ## Hide Incoming Discord Direct Messages
 <img width="148" height="112" alt="image" src="https://github.com/user-attachments/assets/b091595c-2acb-44b2-9028-625386d9bb85" /><br/>
