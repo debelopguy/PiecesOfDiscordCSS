@@ -31,3 +31,14 @@ By the way, you may combine these for any desired effect that you want. 👍
     display: none !important;
 }
 ```
+
+## Hide Top Incoming Messages Indicator
+<sub>*Image example:*</sub><br/>
+<img width="72" height="91" alt="image" src="https://github.com/user-attachments/assets/88de1f40-930c-475e-9eaa-6ed66431fded" /><br/>
+<img width="16" height="16" alt="informator" src="https://github.com/user-attachments/assets/c94f20d2-0046-4a6d-8733-a85fd890dd57" />This will hide the top "NEW" indicator for incoming direct messages.<br/>
+<img width="16" height="16" alt="warner" src="https://github.com/user-attachments/assets/e856a34b-b52c-44c3-be6d-30752d16635f" />Remember that this does *not* remove the indicator at the bottom.
+```css
+[class*="unreadMentionsIndicatorTop_ef3116"] {
+    display: none !important;
+}
+```
